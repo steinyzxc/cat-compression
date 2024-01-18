@@ -4,6 +4,8 @@
 ![permalink setting demo](https://i.imgur.com/J006WPv.gif)
 
 сжимал двигая пиксели в соответствии с диффуром, если попробовать другой диффур или другие картинки то получится тоже прикольно
+для сжатия x'=-x, y'=y, для вращения x'=y, y'=-x
+
 
 ![permalink setting demo](https://i.imgur.com/0yYsEyy.gif)
 
